@@ -1,1 +1,3 @@
 # SMART-TRAFFIC-OPTIMIZATION-USING-IMAGE-PROCESSING
+Traditional fixed-time traffic signals waste fuel, increase pollution, and cause long waiting times—even when roads are empty. This project introduces a density-based, self-adaptive traffic light system powered by AI-driven image processing.
+By detecting vehicle density through cameras and image processing modules, the system dynamically allocates signal time per lane, reducing congestion during peak hours and eliminating unnecessary delays during non-peak hours. The goal is to create a smart, automated traffic management solution that saves time, fuel, and reduces pollution without human intervention.
